@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercícios lab 01
 
 Para relembrar a utilização de funções recursivas, realizamos diversos exercícios para praticar. LINGUAGEM: C.
@@ -38,7 +39,7 @@ Para relembrar a utilização de funções recursivas, realizamos diversos exerc
 
 <div>
 
-<big>Dados um vetor de inteiros v (de n elementos), escreva uma função recursiva que inverta a posição dos seus elementos.</big>
+<big>5. Dados um vetor de inteiros v (de n elementos), escreva uma função recursiva que inverta a posição dos seus elementos.</big>
 
 <img align="center" alt="exercicio5" height="200" width="550" src="./imgs/exercicio5.png" />
 
