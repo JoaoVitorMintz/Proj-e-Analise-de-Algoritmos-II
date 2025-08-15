@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exercícios lab 01
 
 Para relembrar a utilização de funções recursivas, realizamos diversos exercícios para praticar. LINGUAGEM: C.
@@ -46,4 +45,24 @@ Para relembrar a utilização de funções recursivas, realizamos diversos exerc
 ----------
 </div>
 
-<div> Continuar a escrever aqui </div>
+<div> 
+
+<big>6. Escreva uma função recursiva que devolve o maior elemento do vetor de inteiros v (de n elementos).</big>
+
+----------
+</div>
+
+<div> 
+
+<big>7. Escreva uma função recursiva que determina quantas vezes um dígito k ocorre em um número natural n. Por exemplo, o dígito 2 ocorre 3 vezes em 291120267.</big>
+
+----------
+</div>
+
+<div> 
+
+<big>8. Dado o polinômio:</big>
+
+<img align="center" alt="exercicio8" height="800" width="1200" src="./imgs/exercicio8.png" />
+
+</div>
