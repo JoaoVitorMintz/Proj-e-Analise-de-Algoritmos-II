@@ -1,16 +1,17 @@
-// #include <stdio.h>
+#include <stdio.h>
 
-// int polinomio(int x, int n) {
-//     if (n == 0) return x;
-//     else return polinomio(x, n - 1) * x + 0;
-// }
+int polinomio(int x, int n, int v[]) {
+    if (n == 0) return v[0];
+    else return polinomio(x, n - 1, v + 1) * x + v[0];
+}
 
-// int main() {
-//     int x = 5;
-//     int n = 2;
+int main() {
+    int x = 1;
+    int n = 3;
+    int vet[4] = {3, 4, 2, -7};
 
-//     printf("%d", polinomio(x, n));
+    printf("%d", polinomio(x, n, vet));
 
-//     return 0;
+    return 0;
     
-// }
+}
